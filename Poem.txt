@@ -6,7 +6,6 @@ yellow
 green
 blue
 indigo
-recycle
 violet 
 these are the colors of the rainbow
 unicorn
