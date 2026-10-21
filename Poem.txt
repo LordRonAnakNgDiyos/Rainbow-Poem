@@ -1,13 +1,11 @@
-The Rainbow and the Unicorn and the Pony.
+Rainbow Colors and the Unicorn and the pony
 
-Purple
-Pink
-Orange
-Blue
-Indigo
-Unicorn
-Yellow
-Red
-These are the colors if the rainbow.
-And the unicorn.
-Pony
+red
+orange
+yellow
+green
+blue
+indigo
+violet 
+these are the colors of the rainbow
+unicorn
